@@ -6,8 +6,8 @@ Create two JSP scripts and an associated Java class; one script handles the ques
 
 ```
 String[][] statecapital = {
-    {"Alabama", "Montgomery"}, {"Alaska", "Juneau"},
-    {"Arizona", "Phoenix"}, {"Arkansas", "Little Rock"}, 
+	{"Alabama", "Montgomery"}, {"Alaska", "Juneau"},
+	{"Arizona", "Phoenix"}, {"Arkansas", "Little Rock"}, 
 	{"California", "Sacramento"}, {"Colorado", "Denver"}, 
 	{"Connecticut", "Hartford"}, {"Delaware", "Dover"}, 
 	{"Florida", "Tallahassee"}, {"Georgia", "Atlanta"}, 
