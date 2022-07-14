@@ -32,3 +32,7 @@ String[][] statecapital = {
 	{"Washington", "Olympia"}, {"West Virginia", "Charleston"}, 
 	{"Wisconsin", "Madison"}, {"Wyoming", "Cheyenne"}};
 ```
+
+![](/images/jsp1.JPG)
+![](/images/jsp2.JPG)
+![](/images/jsp3.JPG)
